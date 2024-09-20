@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Iphone 15 Pro Max",
+            "images": [
+                "./img/iphone_15_pro_max1.jpg",
+                "./img/iphone_15_pro_max2.jpg",
+                "./img/iphone_15_pro_max3.jpg",
+                "./img/iphone_15_pro_max4.png"
+            ],
+            "price": 1500,
+            "currency": "USD",
+            "description": "The iPhone 15 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.12 inches diagonally (actual viewable area is less).",
+            "quantity": 20
+        },
+        {
+            "id": "2",
+            "name": "Xiaomi Redmi 12",
+            "images": [
+                "./img/xiaomi_redmi_12_1.jpg",
+                "./img/xiaomi_redmi_12_2.jpg",
+                "./img/xiaomi_redmi_12_3.jpg",
+                "./img/xiaomi_redmi_12_4.jpg"
+            ],
+            "price": 200,
+            "currency": "USD",
+            "description": "The 5000mAh super power along with the 18W fast charge, ensuring a longer use and faster charge and helping you get rid of power anxiety. Redmi 12 delivers an amazing balance of power and efficiency thanks to its MediaTek Helio G88 processor, delivering smooth and stable performance day in, day out.",
+            "quantity": 5
+        },
+        {
+            "id": "3",
+            "name": "Honor 8X",
+            "images": [
+                "./img/honor_x8_1.jpg",
+                "./img/honor_x8_2.jpg",
+                "./img/honor_x8_3.jpg",
+                "./img/honor_x8_3.jpg"
+            ],
+            "price": 300,
+            "currency": "USD",
+            "description": "A smartphone for those who want a good performing phone with a decent camera, good battery life and style at a price that won't make you squirm.",
+            "quantity": 5
+        },
+        {
+            "id": "4",
+            "name": "Samsung Galaxy A52",
+            "images": [
+                "./img/samsung_galaxy_a52_1.jpg",
+                "./img/samsung_galaxy_a52_2.jpg",
+                "./img/samsung_galaxy_a52_3.jpg",
+                "./img/samsung_galaxy_a52_4.jpg"
+            ],
+            "price": 500,
+            "currency": "USD",
+            "description": "The Samsung Galaxy A52 is a mid-range Android-based smartphone developed and manufactured by Samsung Electronics as a part of its Galaxy A series. The phone was announced on 17 March 2021 at Samsung's virtual Awesome Unpacked event alongside the Galaxy A72. Samsung Galaxy A52. Samsung Galaxy A52 5G.",
+            "quantity": 3
+        },
+        {
+            "id": "5",
+            "name": "Samsung Galaxy S21 FE 5G/Exynos",
+            "images": [
+                "./img/galaxy_S21_1.jpg",
+                "./img/galaxy_S21_2.jpg",
+                "./img/galaxy_S21_3.jpg",
+                "./img/galaxy_S21_4.jpg"
+            ],
+            "price": 400,
+            "currency": "USD",
+            "description": "The new Dual zoom lens system is faster and sharper than any zoom before. The Dual telephoto lens of the Galaxy S21 Ultra performs lens switching at designated zoom ranges (3x and 10x) and has a hyper detailed new 100x zoom.",
+            "quantity": 100
+        },
+        {
+            "id": "6",
+            "name": "Google Pixel 9 Pro XL",
+            "images": [
+                "./img/google_1.jpg",
+                "./img/google_2.jpg",
+                "./img/google_3.jpg",
+                "./img/google_4.jpg"
+            ],
+            "price": 3000,
+            "currency": "USD",
+            "description": "Pixel updates for seven years from when the device first became available from the Google Store in the US. See g.co/pixel/updates for details. Designed to comply with dust and water protection rating IP68 under IEC standard 60529 when each device leaves the factory but the device is not waterproof or dustproof.",
+            "quantity": 15
+        },
+        {
+            "id": "7",
+            "name": "OnePlus Nord CE4 Lite",
+            "images": [
+                "./img/One_1.jpg",
+                "./img/One_2.jpg",
+                "./img/One_3.jpg",
+                "./img/One_4.jpg"
+            ],
+            "price": 800,
+            "currency": "USD",
+            "description": "Nord is powered by the Qualcomm® Snapdragon™ 765G 5G Mobile Platform with improved CPU speeds and 30% faster graphics rendering than its predecessor.",
+            "quantity": 2
+        },
+        {
+            "id": "8",
+            "name": "Xiaomi Poco F6",
+            "images": [
+                "./img/Poco_1.jpg",
+                "./img/Poco_2.jpg",
+                "./img/Poco_3.jpg",
+                "./img/Poco_4.jpg"
+            ],
+            "price": 1000,
+            "currency": "USD",
+            "description": "The device with IP64 dust and water resistance is certified to be water and dust resistant exclusively under specific laboratory conditions not corresponding to normal use conditions.",
+            "quantity": 10
+        },
+        {
+            "id": "9",
+            "name": "Realme C55",
+            "images": [
+                "./img/Real_1.jpg",
+                "./img/Real_2.jpg",
+                "./img/Real_3.jpg",
+                "./img/Real_4.jpg"
+            ],
+            "price": 500,
+            "currency": "USD",
+            "description": "The Realme C55 offers standard connectivity features like Wi-Fi, Bluetooth 5.2, GPS, and a USB Type-C port for charging and data transfer. However, it doesn't support 5G connectivity, but it has two nano SIM slots for 4G/LTE networks.",
+            "quantity": 20
+        },
+        {
+            "id": "10",
+            "name": "Samsung Galaxy S24 Plus",
+            "images": [
+                "./img/S24_1.jpg",
+                "./img/S24_2.jpg",
+                "./img/S24_3.jpg",
+                "./img/S24_4.jpg"
+            ],
+            "price": 1000,
+            "currency": "USD",
+            "description": "The Galaxy S24 Series introduces advanced intelligence settings, giving you control over AI processing for enhanced functionality. Rest easy with unparalleled mobile protection, fortified by the impenetrable Knox Vault, as well as Knox Matrix13, Samsung's vision for multi-device security.",
+            "quantity": 100
+        }
+    ]
+}
